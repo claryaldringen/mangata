@@ -1,0 +1,1 @@
+export { Owned } from './Owned'
